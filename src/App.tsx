@@ -21,6 +21,7 @@ function App() {
   return (
     <div className='container'>
      <BoardComponent board={board} setBoard={setBoard}/>
+     <div className='feateru_block'>Feature fich</div>
     </div>
   )
 }
